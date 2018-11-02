@@ -2,6 +2,10 @@
 Changelog for package rail_face_detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2018-11-02)
+------------------
+* Renamed the default branch
+
 1.0.1 (2018-09-07)
 ------------------
 * Added a metapackage
