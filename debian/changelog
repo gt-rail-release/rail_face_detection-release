@@ -1,0 +1,22 @@
+ros-indigo-rail-face-detection (1.0.2-0trusty) trusty; urgency=high
+
+  * Renamed the default branch
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Fri, 02 Nov 2018 04:00:00 -0000
+
+ros-indigo-rail-face-detection (1.0.1-0trusty) trusty; urgency=high
+
+  * Added a metapackage
+  * Created a face detector unified launch
+  * Create a separate package for the messages
+  * Contributors: Siddhartha Banerjee, banerjs
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Fri, 07 Sep 2018 04:00:00 -0000
+
+ros-indigo-rail-face-detection (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Siddhartha Banerjee <banerjs.sid@gmail.com>  Wed, 27 Sep 2017 04:00:00 -0000
+
+
